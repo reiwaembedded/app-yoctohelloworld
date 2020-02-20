@@ -1,0 +1,5 @@
+factorial.o: factorial.cpp /usr/include/stdc-predef.h functions.h
+
+/usr/include/stdc-predef.h:
+
+functions.h:
